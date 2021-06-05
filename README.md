@@ -5,8 +5,6 @@
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=MySQL) ![Android Badge](https://img.shields.io/badge/-Android-gray?style=plastic&logo=Android) ![LabVIEW Badge](https://img.shields.io/badge/-LabVIEW-ff69b4?style=plastic&logo=LabVIEW) ![RStudio Badge](https://img.shields.io/badge/-RStudio-white?style=plastic&logo=RStudio)
 
 
-![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:amoremimir13@gmail.com) ![Blog Badge](https://img.shields.io/badge/-Blog-white?style=plastic&logo=Naver&link=https://blog.naver.com/swanm13)(https://blog.naver.com/swanm13)
-
 # Welcome!!
 ### Welcome to King-Otaku’s Profile. It’s Great to have you. 
 
