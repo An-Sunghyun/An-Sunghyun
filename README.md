@@ -4,6 +4,9 @@
 
 # Welcome!!
 ### Welcome to King-Otaku’s Profile. It’s Great to have you. 
+![King-Otaku's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-Otaku&show_icons=true&theme=bear)
+
+
 
 ## Related Plugin
 | Plugin | URL |
