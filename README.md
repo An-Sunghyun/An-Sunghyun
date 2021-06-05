@@ -2,9 +2,9 @@
 ### Welcome to King-Otaku’s Profile. It’s Great to have you. 
 | Plugin | URL |
 | ------ | ------ |
-| Blog | [https://blog.naver.com/swanm13][PlDb] |
-| Portfolio | [https://king-otaku.github.io/][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Blog | https://blog.naver.com/swanm13|
+| Portfolio | https://king-otaku.github.io/ |
+| Google Drive | plugins/googledrive/README.md|
+| OneDrive | plugins/onedrive/README.md|
+| Medium | plugins/medium/README.md |
+| Google Analytics | plugins/googleanalytics/README.md |
