@@ -4,7 +4,5 @@
 | ------ | ------ |
 | Blog | https://blog.naver.com/swanm13|
 | Portfolio | https://king-otaku.github.io/ |
-| Google Drive | plugins/googledrive/README.md|
-| OneDrive | plugins/onedrive/README.md|
-| Medium | plugins/medium/README.md |
-| Google Analytics | plugins/googleanalytics/README.md |
+| Rhythm-game | https://github.com/King-Otaku/Rhythm-game |
+| Emotion_Recognition |https://github.com/King-Otaku/Emotion_Recognition_DNN|
