@@ -8,7 +8,7 @@
 
 
 
-## :anguished:Related Plugin
+## :eight_pointed_black_star: Related Plugin
 | Plugin | URL |
 | ------ | ------ |
 | Naver Blog | https://blog.naver.com/swanm13|
@@ -16,7 +16,7 @@
 | Rhythm-game | https://github.com/King-Otaku/Rhythm-game |
 | Emotion_Recognition |https://github.com/King-Otaku/Emotion_Recognition_DNN|
 
-## Education
+## :school: Education
 |      **Type**      |      **Date**      |                  **Contents**                 |  **Organization**  |
 |:------------------:|:------------------:|:---------------------------------------------:|:------------------:|
 |   **University**   | 2015.03 ~ 2021. 02 |       Department of Computer Engineering      | Sunmoon University |
@@ -26,7 +26,7 @@
 |       **AI**       |  2021.01 ~ 2021.04 |        Deep Learning and AI All in One        |     FAST CAMPUS    |
 |    **Big Data**    |  2020.07 ~ 2020.07 | Big Data Analysis Basic and Practical Affairs | Sunmoon University |
 
-## Certification
+## :clipboard: Certification
 |           **Type**          |    **Date**    | **Score/Grade** |                             **Organization**                             |
 |:---------------------------:|:--------------------------:|:---------------:|:------------------------------------------------------------------------:|
 |          **TOEIC**          |  2021.01.24  |     960/990     |                           Korea TOEIC Committee                          |
@@ -36,7 +36,7 @@
 |         **AUTOCAD**         |  2020.01.31  |       User      |                                 Certiport                                |
 
 
-## Project Summary
+## :sparkle: Project Summary
 |             **Topic**             |       **Date**      | **Methodology** |            **Language**            |                 **Tool**                |
 |:---------------------------------:|:-------------------:|:---------------:|:----------------------------------:|:---------------------------------------:|
 |      **Emotion Recognition**      | 2021. 03 ~ 2021. 06 |    Iterative Development    | Python, HTML, CSS, JavaScript, SQL |    Jupyter, Pycharm, IntelliJ, MySQL    |
