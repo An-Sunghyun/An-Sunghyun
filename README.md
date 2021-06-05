@@ -31,3 +31,13 @@
 | **Public Big Data Analyst** |  2020.07.31  |     Level 2     |                   Korea Software Engineers Association                   |
 |  **Information Processing** |  2017.12.11  |    Technician   |               Human Resources Development Service of Korea               |
 |         **AUTOCAD**         |  2020.01.31  |       User      |                                 Certiport                                |
+
+
+## Project Summary
+|             **Topic**             |       **Date**      | **Methodology** |            **Language**            |                 **Tool**                |
+|:---------------------------------:|:-------------------:|:---------------:|:----------------------------------:|:---------------------------------------:|
+|      **Emotion Recognition**      | 2021. 03 ~ 2021. 06 |    Iterative Development    | Python, HTML, CSS, JavaScript, SQL |    Jupyter, Pycharm, IntelliJ, MySQL    |
+| **Safe Distance Smartphone Case** | 2020. 03 ~ 2020. 06 |    Iterative Development    |               LabVIEW              |                 LabView                 |
+|  **Menu Recommendation WebSite**  | 2020. 03 ~ 2020. 06 |    Iterative Development    |        HTML, CSS, JavaScript       |                 Eclipse                 |
+|     **Common Sense Quiz App**     | 2020. 08 ~ 2020. 12 |      Spiral Model     |              JAVA, SQL             | Android Studio, MySQL, FireBase, Tomcat |
+|          **Rhythm Game**          | 2019. 08 ~ 2019. 12 |    Iterative Development    |              JAVA, SQL             |              Eclipse, MySQL             |
