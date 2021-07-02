@@ -32,7 +32,7 @@
 |           **Type**          |    **Date**    | **Score/Grade** |                             **Organization**                             |
 |:---------------------------:|:--------------------------:|:---------------:|:------------------------------------------------------------------------:|
 |          **TOEIC**          |  2021.01.24  |     960/990     |                           Korea TOEIC Committee                          |
-|          **TOPCIT**         |  2020.10.31  |     370/990     | Korea Institute of Information and Communication Planning and Assessment |
+|          **TOPCIT**         |  2021.05.22  |     414/990     | Korea Institute of Information and Communication Planning and Assessment |
 | **Public Big Data Analyst** |  2020.07.31  |     Level 2     |                   Korea Software Engineers Association                   |
 |  **Information Processing** |  2017.12.11  |    Technician   |               Human Resources Development Service of Korea               |
 |         **AUTOCAD**         |  2020.01.31  |       User      |                                 Certiport                                |
