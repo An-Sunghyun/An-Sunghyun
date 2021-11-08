@@ -41,6 +41,7 @@
 ## :sparkle: Project Summary
 |             **Topic**             |       **Date**      | **Methodology** |            **Language**            |                 **Tool**                |
 |:---------------------------------:|:-------------------:|:---------------:|:----------------------------------:|:---------------------------------------:|
+|      **image processing program for detecting defective product**      | 2021. 08 ~ 2021. 12 |    Iterative Development    | JAVA, C# |    Visual Studio, Android Studio    |
 |      **Emotion Recognition**      | 2021. 03 ~ 2021. 06 |    Iterative Development    | Python, HTML, CSS, JavaScript, SQL |    Jupyter, Pycharm, IntelliJ, MySQL    |
 | **Safe Distance Smartphone Case** | 2020. 03 ~ 2020. 06 |    Iterative Development    |               LabVIEW              |                 LabView                 |
 |  **Menu Recommendation WebSite**  | 2020. 03 ~ 2020. 06 |    Iterative Development    |        HTML, CSS, JavaScript       |                 Eclipse                 |
