@@ -49,6 +49,6 @@
 |          **Rhythm Game**          | 2019. 08 ~ 2019. 12 |    Iterative Development    |              JAVA, SQL             |              Eclipse, MySQL             |
 
 ## :sparkle: Career
-|             **Company**             |       **Date**      | **Work** |            **Department**            |                 **Language**                |
+|             **Company**             |       **Date**      | **Department** |            **Work**            |                 **Language**                |
 |:---------------------------------:|:-------------------:|:---------------:|:----------------------------------:|:---------------------------------------:|
-|      **ThinkWinTek**      | 2021. 07 ~ 2021. 12 |    Research & Development    | R&D Department |    JAVA, C#    |
+|      **ThinkWinTek**      | 2021. 07 ~ 2021. 12 |    Research & Development    | Program development, Supply, and maintenance. |    JAVA, C#    |
