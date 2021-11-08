@@ -47,3 +47,8 @@
 |  **Menu Recommendation WebSite**  | 2020. 03 ~ 2020. 06 |    Iterative Development    |        HTML, CSS, JavaScript       |                 Eclipse                 |
 |     **Common Sense Quiz App**     | 2020. 08 ~ 2020. 12 |      Spiral Model     |              JAVA, SQL             | Android Studio, MySQL, FireBase, Tomcat |
 |          **Rhythm Game**          | 2019. 08 ~ 2019. 12 |    Iterative Development    |              JAVA, SQL             |              Eclipse, MySQL             |
+
+## :sparkle: Career
+|             **Company**             |       **Date**      | **Work** |            **Department**            |                 **Language**                |
+|:---------------------------------:|:-------------------:|:---------------:|:----------------------------------:|:---------------------------------------:|
+|      **ThinkWinTek**      | 2021. 07 ~ 2021. 12 |    Research & Development    | R&D Department |    JAVA, C#    |
