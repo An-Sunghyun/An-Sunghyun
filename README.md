@@ -52,4 +52,4 @@
 ## :sparkle: Career
 |             **Company**             |       **Date**      | **Department** |            **Work**            |                 **Language**                |
 |:---------------------------------:|:-------------------:|:---------------:|:----------------------------------:|:---------------------------------------:|
-|      **ThinkWinTek**      | 2021. 07 ~ 2021. 12 |    Research & Development    | Program development, Supply, and maintenance. |    JAVA, C#    |
+|      **ThinkWinTek**      | 2021. 07 ~ 2021. 12 |    Research & Development    | Program Development, Supply, and Maintenance. |    JAVA, C#    |
