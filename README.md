@@ -28,6 +28,7 @@
 |       **AI**       |  2021.01 ~ 2021.01 |      Artificial Intelligence Development      | Sunmoon University |
 |       **AI**       |  2021.01 ~ 2021.04 |        Deep Learning and AI All in One        |     FAST CAMPUS    |
 |    **Big Data**    |  2020.07 ~ 2020.07 | Big Data Analysis Basic and Practical Affairs | Sunmoon University |
+|    **Big Data**    |  2022.02 ~ 2022.07 | K-Digital Training : Building Big Data Platform | Employment Center |
 
 ## :clipboard: Certification
 |           **Type**          |    **Date**    | **Score/Grade** |                             **Organization**                             |
