@@ -20,15 +20,15 @@
 | Baekjoon Programming Practice |https://github.com/King-Otaku/Baekjoon_Solutions_Python|
 
 ## :school: Education
-|      **Type**      |      **Date**      |                  **Contents**                 |  **Organization**  |
-|:------------------:|:------------------:|:---------------------------------------------:|:------------------:|
-|   **University**   | 2015.03 ~ 2021. 02 |       Department of Computer Engineering      | Sunmoon University |
-|     **English**    |  2016.01 ~ 2016.02 |        Language Training in Philippines       | Sunmoon University |
-| **CATIA, AUTOCAD** |  2020.01 ~ 2020.01 |    3D Modeling Basic and Practical Affairs    | Sunmoon University |
-|       **AI**       |  2021.01 ~ 2021.01 |      Artificial Intelligence Development      | Sunmoon University |
-|       **AI**       |  2021.01 ~ 2021.04 |        Deep Learning and AI All in One        |     FAST CAMPUS    |
-|    **Big Data**    |  2020.07 ~ 2020.07 | Big Data Analysis Basic and Practical Affairs | Sunmoon University |
-|    **Big Data Platform**    |  2022.02 ~ 2022.07 | K-Digital Training : Building Big Data Platform | Employment Center |
+|      **Type**      |      **Date**      |                  **Contents**                 |  **SW/Language**  |  **Organization**  |
+|:------------------:|:------------------:|:---------------------------------------------:|:------------------:|:------------------:|
+|   **University**   | 2015.03 ~ 2021. 02 |       Department of Computer Engineering      | C, JAVA, SQL.... | Sunmoon University |
+|     **Language**    |  2016.01 ~ 2016.02 |        Language Training in Philippines       | English | Sunmoon University |
+| **3D Modeling** |  2020.01 ~ 2020.01 |    3D Modeling Basic and Practical Affairs    | CATIA, AUTOCAD | Sunmoon University |
+|       **AI**       |  2021.01 ~ 2021.01 |      Artificial Intelligence Development      | YOLO, Tensorflow, Python | Sunmoon University |
+|       **AI**       |  2021.01 ~ 2021.04 |        Deep Learning and AI All in One        | Tensorflow, Pytorch, Python | FAST CAMPUS |
+|    **Big Data**    |  2020.07 ~ 2020.07 | Big Data Analysis Basic and Practical Affairs | R, Python | Sunmoon University |
+|    **Big Data Platform**    |  2022.02 ~ 2022.07 | K-Digital Training : Building Big Data Platform | Flume, Storm, Hadoop, Kafka.... | Employment Center |
 
 ## :clipboard: Certification
 |           **Type**          |    **Date**    | **Score/Grade** |                             **Organization**                             |
