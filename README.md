@@ -28,7 +28,7 @@
 |       **AI**       |  2021.01 ~ 2021.01 |      Artificial Intelligence Development      | YOLO, Tensorflow, Python .... | Sunmoon University |
 |       **AI**       |  2021.01 ~ 2021.04 |        Deep Learning and AI All in One        | Tensorflow, Pytorch, Python ..... | FAST CAMPUS |
 |    **Big Data**    |  2020.07 ~ 2020.07 | Big Data Analysis Basic and Practical Affairs | R, Python, Analysis .... | Sunmoon University |
-|    **Big Data Platform**    |  2022.02 ~ 2022.07 | K-Digital Training : Building Big Data Platform | Flume, Storm, Hadoop, Kafka, Hive, Hbase, Zookeeper, Analysis ... | Employment Center |
+|    **Big Data Platform**    |  2022.02 ~ 2022.07 | K-Digital Training : Building Big Data Platform | Flume, Hadoop, Kafka, Hive, Hbase, Zookeeper, Analysis(R, Python) ... | Employment Center |
 
 ## :clipboard: Certification
 |           **Type**          |    **Date**    | **Score/Grade** |                             **Organization**                             |
