@@ -15,9 +15,6 @@
 | ------ | ------ |
 | Naver Blog | https://blog.naver.com/swanm13|
 | Portfolio | https://king-otaku.github.io/ |
-| Rhythm-game | https://github.com/King-Otaku/Rhythm-game |
-| Emotion_Recognition |https://github.com/King-Otaku/Emotion_Recognition_DNN|
-| Baekjoon Programming Practice |https://github.com/King-Otaku/Baekjoon_Solutions_Python|
 
 ## :school: Education
 |      **Type**      |      **Date**      |                  **Contents**                 |  **SW/Language**  |  **Organization**  |
