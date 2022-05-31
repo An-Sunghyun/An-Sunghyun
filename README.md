@@ -43,7 +43,7 @@
 ## :sparkle: Project Summary
 |             **Topic**             |       **Date**      | **Methodology** |            **Language**            |                 **Tool**                |
 |:---------------------------------:|:-------------------:|:---------------:|:----------------------------------:|:---------------------------------------:|
-|      **EDA-Practice-Project**(https://github.com/King-Otaku/EDA-practice-project)      | 2022. 05 ~ 2022. 6 |    Iterative Development    | Python |    Visual Studio Code    |
+|      **EDA-Practice-Project(https://github.com/King-Otaku/EDA-practice-project)**      | 2022. 05 ~ 2022. 6 |    Iterative Development    | Python |    Visual Studio Code    |
 |      **Image Processing Program for Detecting Defective Product**      | 2021. 08 ~ 2021. 12 |    Iterative Development    | JAVA, C# |    Visual Studio, Android Studio    |
 |      **Emotion Recognition**(https://github.com/King-Otaku/Emotion_Recognition_DNN)      | 2021. 03 ~ 2021. 06 |    Iterative Development    | Python, HTML, CSS, JavaScript, SQL |    Jupyter, Pycharm, IntelliJ, MySQL    |
 | **Safe Distance Smartphone Case** | 2020. 03 ~ 2020. 06 |    Iterative Development    |               LabVIEW              |                 LabView                 |
