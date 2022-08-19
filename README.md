@@ -24,8 +24,7 @@
 | **3D Modeling** |  2020.01 ~ 2020.01 |    3D Modeling Basic and Practical Affairs    | CATIA, AUTOCAD | Sunmoon University |
 |       **AI**       |  2021.01 ~ 2021.01 |      Artificial Intelligence Development      | YOLO, Tensorflow, Python .... | Sunmoon University |
 |       **AI**       |  2021.01 ~ 2021.04 |        Deep Learning and AI All in One        | Tensorflow, Pytorch, Python ..... | FAST CAMPUS |
-|    **Big 
-**    |  2020.07 ~ 2020.07 | Big Data Analysis Basic and Practical Affairs | R, Python, Analysis .... | Sunmoon University |
+|    **Big Data Analysis**    |  2020.07 ~ 2020.07 | Big Data Analysis Basic and Practical Affairs | R, Python, Analysis .... | Sunmoon University |
 |    **Big Data Platform**    |  2022.02 ~ 2022.07 | K-Digital Training : Building Big Data Platform | Flume, Hadoop, Kafka, Hive, Hbase, Zookeeper, Analysis(R, Python) ... | Employment Center |
 
 ## :clipboard: Certification
