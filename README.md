@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Data%20Novice's%20Github&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=An%20Sunghyun's%20Github&fontSize=90&animation=fadeIn)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKing-Otaku&count_bg=%2319ACA2&title_bg=%2311DDCB&icon=github.svg&icon_color=%23E7E7E7&title=Github+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -6,7 +6,7 @@
 
 # :sparkles: Welcome!!
 ### Welcome to An-Sunghyun’s Profile. It’s Great to have you. 
-![King-Otaku's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-Otaku&show_icons=true&theme=buefy)
+![An-Sunghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=An-Sunghyun&show_icons=true&theme=buefy)
 
 
 
@@ -14,7 +14,7 @@
 | Plugin | URL |
 | ------ | ------ |
 | Naver Blog | https://blog.naver.com/swanm13|
-| Portfolio | https://king-otaku.github.io/ |
+| Portfolio | https://An-Sunghyun.github.io/ |
 
 ## :school: Education
 |      **Type**      |      **Date**      |                  **Contents**                 |  **SW/Language**  |  **Organization**  |
@@ -24,7 +24,8 @@
 | **3D Modeling** |  2020.01 ~ 2020.01 |    3D Modeling Basic and Practical Affairs    | CATIA, AUTOCAD | Sunmoon University |
 |       **AI**       |  2021.01 ~ 2021.01 |      Artificial Intelligence Development      | YOLO, Tensorflow, Python .... | Sunmoon University |
 |       **AI**       |  2021.01 ~ 2021.04 |        Deep Learning and AI All in One        | Tensorflow, Pytorch, Python ..... | FAST CAMPUS |
-|    **Big Data**    |  2020.07 ~ 2020.07 | Big Data Analysis Basic and Practical Affairs | R, Python, Analysis .... | Sunmoon University |
+|    **Big 
+**    |  2020.07 ~ 2020.07 | Big Data Analysis Basic and Practical Affairs | R, Python, Analysis .... | Sunmoon University |
 |    **Big Data Platform**    |  2022.02 ~ 2022.07 | K-Digital Training : Building Big Data Platform | Flume, Hadoop, Kafka, Hive, Hbase, Zookeeper, Analysis(R, Python) ... | Employment Center |
 
 ## :clipboard: Certification
