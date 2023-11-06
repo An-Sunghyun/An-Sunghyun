@@ -13,7 +13,7 @@
 ## :eight_pointed_black_star: Related Plugin
 | Plugin | URL |
 | ------ | ------ |
-| Naver Blog | https://blog.naver.com/swanm13|
+| Blog | https://tirunculus.tistory.com/ |
 | Portfolio | https://An-Sunghyun.github.io/ |
 
 ## :school: Education
