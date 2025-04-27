@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sung%20hyun's%20Github&fontSize=90&animation=fadeIn)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKing-Otaku&count_bg=%2319ACA2&title_bg=%2311DDCB&icon=github.svg&icon_color=%23E7E7E7&title=Github+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![Java Badge](https://img.shields.io/badge/-Java-ff69b4?style=plastic&logo=Java) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-gray?style=plastic&logo=JavaScript) ![Python Badge](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python) ![C Badge](https://img.shields.io/badge/-C-gray?style=plastic&logo=C) ![HTML Badge](https://img.shields.io/badge/-HTML-white?style=plastic&logo=HTML5) ![CSS Badge](https://img.shields.io/badge/-CSS-ff69b4?style=plastic&logo=CSS3) ![MySQL Badge](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=MySQL) ![Android Badge](https://img.shields.io/badge/-Android-gray?style=plastic&logo=Android) ![LabVIEW Badge](https://img.shields.io/badge/-LabVIEW-ff69b4?style=plastic&logo=LabVIEW) ![RStudio Badge](https://img.shields.io/badge/-RStudio-white?style=plastic&logo=RStudio)
 
 # :sparkles: Welcome!!
@@ -52,4 +50,5 @@
 ## :sparkle: Career
 |             **Company**             |       **Date**      | **Department** |            **Work**            |                 **Language**                |
 |:---------------------------------:|:-------------------:|:---------------:|:----------------------------------:|:---------------------------------------:|
-|      **ThinkWinTek**      | 2021. 07 ~ 2021. 12 |    Research & Development    | Program Development, Supply, and Maintenance. |    JAVA, C#    |
+|      **ThinkWinTek**      | 2021. 07 ~ 2021. 12 |    Research & Development Team   | Program Development, Supply, and Maintenance. |    JAVA, C#    |
+|      **Nethru**      | 2022. 09 ~  |    Digital Marketing & Engineering Team    | Tagging Specialist & Solution Engineering & SYSOP |    Linux, GTM, GA4, Atlassian, JavaScript    |
